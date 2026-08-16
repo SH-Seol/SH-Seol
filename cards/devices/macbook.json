@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "macbook",
-  "updatedAt": "2026-08-16T08:08:20.433Z",
+  "updatedAt": "2026-08-16T14:35:15.889Z",
   "totals": {
-    "totalTokens": 3035913500,
-    "inputTokens": 1163311,
-    "outputTokens": 13112933,
-    "cacheCreationTokens": 93561893,
-    "cacheReadTokens": 2928075363,
-    "totalCost": 2661.61587925
+    "totalTokens": 3091149932,
+    "inputTokens": 1477136,
+    "outputTokens": 13414876,
+    "cacheCreationTokens": 94728759,
+    "cacheReadTokens": 2981529161,
+    "totalCost": 2704.03815085
   },
   "daily": [
     {
@@ -1189,41 +1189,41 @@
     },
     {
       "period": "2026-08-16",
-      "totalTokens": 209763204,
-      "inputTokens": 750774,
-      "outputTokens": 912397,
-      "cacheCreationTokens": 5499910,
-      "cacheReadTokens": 202600123,
-      "totalCost": 172.77418234999993,
+      "totalTokens": 264999636,
+      "inputTokens": 1064599,
+      "outputTokens": 1214340,
+      "cacheCreationTokens": 6666776,
+      "cacheReadTokens": 256053921,
+      "totalCost": 215.19645395000003,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5",
-          "cost": 153.24679074999997,
+          "cost": 186.27600074999984,
           "totalTokens": 0,
-          "inputTokens": 1212,
-          "outputTokens": 699117,
-          "cacheCreationTokens": 4906974,
-          "cacheReadTokens": 177313964,
+          "inputTokens": 1474,
+          "outputTokens": 892764,
+          "cacheCreationTokens": 5731542,
+          "cacheReadTokens": 217712804,
           "totalCost": 0
         },
         {
           "modelName": "gpt-5.6-sol",
-          "cost": 15.321773,
+          "cost": 22.259377999999998,
           "totalTokens": 0,
-          "inputTokens": 719465,
-          "outputTokens": 80880,
+          "inputTokens": 1032806,
+          "outputTokens": 107718,
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 18596096,
+          "cacheReadTokens": 27727616,
           "totalCost": 0
         },
         {
           "modelName": "claude-sonnet-5",
-          "cost": 4.119897400000002,
+          "cost": 6.5753540000000035,
           "totalTokens": 0,
-          "inputTokens": 462,
-          "outputTokens": 131864,
-          "cacheCreationTokens": 592936,
-          "cacheReadTokens": 6589967,
+          "inputTokens": 684,
+          "outputTokens": 213322,
+          "cacheCreationTokens": 935234,
+          "cacheReadTokens": 10513405,
           "totalCost": 0
         },
         {
@@ -1241,7 +1241,7 @@
   ],
   "toolDaily": {
     "Codex": {
-      "undefined": 15.4074942
+      "undefined": 22.345099199999996
     },
     "Gemini": {},
     "Copilot": {}
