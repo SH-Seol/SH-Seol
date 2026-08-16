@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "macbook",
-  "updatedAt": "2026-08-16T08:07:37.985Z",
+  "updatedAt": "2026-08-16T08:08:20.433Z",
   "totals": {
-    "totalTokens": 3035029288,
-    "inputTokens": 1158515,
-    "outputTokens": 13108709,
-    "cacheCreationTokens": 93553806,
-    "cacheReadTokens": 2927208258,
-    "totalCost": 2660.97965425
+    "totalTokens": 3035913500,
+    "inputTokens": 1163311,
+    "outputTokens": 13112933,
+    "cacheCreationTokens": 93561893,
+    "cacheReadTokens": 2928075363,
+    "totalCost": 2661.61587925
   },
   "daily": [
     {
@@ -1189,31 +1189,31 @@
     },
     {
       "period": "2026-08-16",
-      "totalTokens": 208878992,
-      "inputTokens": 745978,
-      "outputTokens": 908173,
-      "cacheCreationTokens": 5491823,
-      "cacheReadTokens": 201733018,
-      "totalCost": 172.1379573499999,
+      "totalTokens": 209763204,
+      "inputTokens": 750774,
+      "outputTokens": 912397,
+      "cacheCreationTokens": 5499910,
+      "cacheReadTokens": 202600123,
+      "totalCost": 172.77418234999993,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5",
-          "cost": 152.94360374999997,
+          "cost": 153.24679074999997,
           "totalTokens": 0,
-          "inputTokens": 1198,
-          "outputTokens": 697257,
-          "cacheCreationTokens": 4898887,
-          "cacheReadTokens": 176923275,
+          "inputTokens": 1212,
+          "outputTokens": 699117,
+          "cacheCreationTokens": 4906974,
+          "cacheReadTokens": 177313964,
           "totalCost": 0
         },
         {
           "modelName": "gpt-5.6-sol",
-          "cost": 14.988735,
+          "cost": 15.321773,
           "totalTokens": 0,
-          "inputTokens": 714683,
-          "outputTokens": 78516,
+          "inputTokens": 719465,
+          "outputTokens": 80880,
           "cacheCreationTokens": 0,
-          "cacheReadTokens": 18119680,
+          "cacheReadTokens": 18596096,
           "totalCost": 0
         },
         {
@@ -1241,7 +1241,7 @@
   ],
   "toolDaily": {
     "Codex": {
-      "undefined": 15.0744562
+      "undefined": 15.4074942
     },
     "Gemini": {},
     "Copilot": {}
