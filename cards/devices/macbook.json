@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "macbook",
-  "updatedAt": "2026-08-16T14:35:15.889Z",
+  "updatedAt": "2026-08-17T14:41:37.333Z",
   "totals": {
-    "totalTokens": 3091149932,
-    "inputTokens": 1477136,
-    "outputTokens": 13414876,
-    "cacheCreationTokens": 94728759,
-    "cacheReadTokens": 2981529161,
-    "totalCost": 2704.03815085
+    "totalTokens": 3236982174,
+    "inputTokens": 1778407,
+    "outputTokens": 14040580,
+    "cacheCreationTokens": 100843542,
+    "cacheReadTokens": 3120319645,
+    "totalCost": 2849.41757725
   },
   "daily": [
     {
@@ -1234,6 +1234,47 @@
           "outputTokens": 536,
           "cacheCreationTokens": 0,
           "cacheReadTokens": 100096,
+          "totalCost": 0
+        }
+      ]
+    },
+    {
+      "period": "2026-08-17",
+      "totalTokens": 145832242,
+      "inputTokens": 301271,
+      "outputTokens": 625704,
+      "cacheCreationTokens": 6114783,
+      "cacheReadTokens": 138790484,
+      "totalCost": 145.3794264,
+      "modelBreakdowns": [
+        {
+          "modelName": "claude-opus-5",
+          "cost": 137.672753,
+          "totalTokens": 0,
+          "inputTokens": 926,
+          "outputTokens": 548587,
+          "cacheCreationTokens": 5895975,
+          "cacheReadTokens": 129987396,
+          "totalCost": 0
+        },
+        {
+          "modelName": "gpt-5.6-sol",
+          "cost": 6.541373,
+          "totalTokens": 0,
+          "inputTokens": 300265,
+          "outputTokens": 51176,
+          "cacheCreationTokens": 0,
+          "cacheReadTokens": 7009536,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-sonnet-5",
+          "cost": 1.1653004,
+          "totalTokens": 0,
+          "inputTokens": 80,
+          "outputTokens": 25941,
+          "cacheCreationTokens": 218808,
+          "cacheReadTokens": 1793552,
           "totalCost": 0
         }
       ]
