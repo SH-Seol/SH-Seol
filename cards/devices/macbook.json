@@ -1,14 +1,14 @@
 {
   "version": 2,
   "device": "macbook",
-  "updatedAt": "2026-11-22T14:30:07.517Z",
+  "updatedAt": "2026-11-23T14:46:25.558Z",
   "totals": {
-    "totalTokens": 30396883005,
-    "inputTokens": 64747320,
-    "outputTokens": 123267140,
-    "cacheCreationTokens": 809163158,
-    "cacheReadTokens": 29399705387,
-    "totalCost": 19564.233677140004
+    "totalTokens": 30503476455,
+    "inputTokens": 64748706,
+    "outputTokens": 124003915,
+    "cacheCreationTokens": 812811955,
+    "cacheReadTokens": 29501911879,
+    "totalCost": 19625.20231724
   },
   "daily": [
     {
@@ -5087,21 +5087,21 @@
     },
     {
       "period": "2026-11-22",
-      "totalTokens": 257580312,
-      "inputTokens": 327841,
-      "outputTokens": 2126354,
-      "cacheCreationTokens": 9627819,
-      "cacheReadTokens": 245498298,
-      "totalCost": 161.38525913000024,
+      "totalTokens": 269877333,
+      "inputTokens": 328021,
+      "outputTokens": 2219518,
+      "cacheCreationTokens": 10156208,
+      "cacheReadTokens": 257173586,
+      "totalCost": 168.44454773000027,
       "modelBreakdowns": [
         {
           "modelName": "claude-opus-5-5",
-          "cost": 160.79804160000023,
+          "cost": 167.85733020000026,
           "totalTokens": 0,
-          "inputTokens": 95899,
-          "outputTokens": 2118828,
-          "cacheCreationTokens": 9609657,
-          "cacheReadTokens": 244791268,
+          "inputTokens": 96079,
+          "outputTokens": 2211992,
+          "cacheCreationTokens": 10138046,
+          "cacheReadTokens": 256466556,
           "totalCost": 0
         },
         {
@@ -5122,6 +5122,37 @@
           "outputTokens": 2541,
           "cacheCreationTokens": 18162,
           "cacheReadTokens": 8278,
+          "totalCost": 0
+        }
+      ]
+    },
+    {
+      "period": "2026-11-23",
+      "totalTokens": 94296429,
+      "inputTokens": 1206,
+      "outputTokens": 643611,
+      "cacheCreationTokens": 3120408,
+      "cacheReadTokens": 90531204,
+      "totalCost": 53.909351500000035,
+      "modelBreakdowns": [
+        {
+          "modelName": "claude-opus-5-5",
+          "cost": 49.325387000000035,
+          "totalTokens": 0,
+          "inputTokens": 1152,
+          "outputTokens": 625475,
+          "cacheCreationTokens": 2928986,
+          "cacheReadTokens": 86099055,
+          "totalCost": 0
+        },
+        {
+          "modelName": "claude-opus-5",
+          "cost": 4.5839645,
+          "totalTokens": 0,
+          "inputTokens": 54,
+          "outputTokens": 18136,
+          "cacheCreationTokens": 191422,
+          "cacheReadTokens": 4432149,
           "totalCost": 0
         }
       ]
